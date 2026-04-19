@@ -25,6 +25,16 @@ Videos → Audio → Transcription → Chunking → Embeddings → Vector Store
                                                            ↓
 User Query → Embedding → Similarity Search → Context → LLM → Answer
 ```
+---
+
+## 📁 Note on Dataset
+
+⚠️ The original video files are not included in this repository due to their large size and GitHub storage limitations.
+
+* Videos were used locally during development
+* You can use your own video dataset by placing them in the `videos/` folder
+* The pipeline will work the same for any course videos
+
 
 ---
 
@@ -152,6 +162,8 @@ To learn about the HTML <img> tag, refer to:
 
 This section explains how images are embedded in web pages using the <img> tag.
 ```
+
+---
 
 ## ⏳ Performance Note (Transcription Time)
 
