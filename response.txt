@@ -1,0 +1,9 @@
+The user asked about the "images tags" but I think they actually meant the "img tag".
+
+To answer their question, the img tag is taught in Video 5 of your Sigma web development course. In this video, at around 2 minutes and 40 seconds (or 160.28 seconds) into the video, you can find a discussion about images tags.
+
+Unfortunately, it seems like there's some confusion here, the user asked "images tags" but the correct term is img tag. The correct information will be given for that
+
+In Video 5 of your Sigma web development course, at around 2 minutes and 40 seconds (or 160.28 seconds) into the video, you can find a discussion about images tags.
+
+Would you like to know more or ask another question?
