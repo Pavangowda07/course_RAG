@@ -153,6 +153,23 @@ To learn about the HTML <img> tag, refer to:
 This section explains how images are embedded in web pages using the <img> tag.
 ```
 
+## ⏳ Performance Note (Transcription Time)
+
+⚠️ **Important:** The transcription step (`mp3_to_jsons.py`) can take a significant amount of time depending on your system specifications.
+
+* Using models like **Whisper large-v2** is **computationally intensive**
+* On CPU, transcription can be **very slow (real-time or slower)**
+* Performance improves significantly with a **GPU**
+
+### 🚀 Recommendations
+
+* ✅ Use a system with a **dedicated GPU** for faster processing
+* ✅ Rent a GPU from cloud providers (e.g., Google Colab, AWS, Paperspace)
+* ✅ Alternatively, use **Whisper APIs** for faster and scalable transcription
+
+This step is a **one-time preprocessing cost**, after which the system runs efficiently for querying.
+
+
 ---
 
 ## 🧪 Tech Stack
