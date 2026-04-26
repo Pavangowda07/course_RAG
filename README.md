@@ -155,6 +155,7 @@ streamlit run app.py
 ## 💡 Example Output
 
 ```
+Example Question: What is an HTML tag?
 To learn about the HTML <img> tag, refer to:
 
 📺 Video 5 - Image, Lists, and Tables in HTML  
